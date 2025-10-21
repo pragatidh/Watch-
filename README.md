@@ -1,6 +1,5 @@
 # 🕒 Digital Watch
 
-A simple and elegant **Digital Watch** built using **HTML**, **CSS**, and **JavaScript**.  
 This project displays the current time dynamically and updates every second in real time.
 
 ---
